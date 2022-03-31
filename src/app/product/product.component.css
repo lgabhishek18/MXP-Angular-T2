@@ -1,0 +1,13 @@
+#pro {
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 100px 30px; 
+}
+
+
+h3{
+    text-align: center;
+    color: blue;
+}
